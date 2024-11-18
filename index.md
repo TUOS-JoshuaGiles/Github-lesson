@@ -2,7 +2,7 @@
 
 An example website for practise of the development of a website :bird: :brain: :sloth:
 
-## subheadings are avalible
+## subheadings are avalible :sloth:
 
 The **Brain** is a very _interesting_ area of research.
 
