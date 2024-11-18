@@ -4,6 +4,10 @@ An example website for practise of the development of a website :bird: :brain: :
 
 ## subheadings are avalible :sloth:
 
+<img src="[https://your-image-url.type](https://static.vecteezy.com/system/resources/previews/024/068/988/non_2x/cute-sloth-in-hat-and-scarf-in-winter-with-snow-ai-generated-free-photo.jpg)" width="100" height="100">
+
+## :brain: 💻 🧠 
+
 The **Brain** is a very _interesting_ area of research.
 
 ![](https://neuro-physio.co.uk/wp-content/uploads/2016/04/web-brain-getty-c-DONTUSEAGAIN.png)
