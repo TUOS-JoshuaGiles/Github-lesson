@@ -1,1 +1,6 @@
-# ignore selected document types
+*.csv
+tmp/
+*.xls
+*.xlsx
+*.doc
+*.docx
