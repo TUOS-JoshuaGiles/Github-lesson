@@ -1,6 +1,6 @@
 # Example Website
 
-An example website for practise of the development of a website 
+An example website for practise of the development of a website :bird: :brain: :sloth:
 
 ## subheadings are avalible
 
